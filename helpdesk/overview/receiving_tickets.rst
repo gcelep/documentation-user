@@ -84,5 +84,5 @@ the Kanban view.
    :alt: View of a team’s kanban view and the prioritized tasks in Odoo Helpdesk
 
 .. seealso::
-   - :doc:`../../discuss/email_servers`
+   - :doc:`../../discuss/advanced/email_servers`
 
